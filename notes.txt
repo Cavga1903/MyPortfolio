@@ -1,0 +1,3 @@
+1- resume.html olan sayfaya tek bir pdf içeriği ekleyerek indirebileceği bir özgeçmiş dosyası oluşturalım.
+
+2-diğer sayfaların index.html içerisinde içerikleri barındıran daha detaylı sayfalar oıluşturalım. button olsun ve tıklanınca pop-up olrak detaylar açılsın. ve kapatma tuşu da olsun.
